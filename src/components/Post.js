@@ -32,7 +32,7 @@ function Post({ displayName, username, verified, text, image, avatar }) {
             </div>
           </div>
           <img
-            src="https://colorlib.com/wp/wp-content/uploads/sites/2/react-dev-tools-logo.jpg"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png"
             alt="image from post"
           />
           <div className="post__footer">
