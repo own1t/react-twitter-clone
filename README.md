@@ -1,3 +1,3 @@
-## Twitter Clone Application
+## Twitter Clone Application with limited functionalities
 
-### Built with ReactJS
+### Built with ReactJS & Firebase
